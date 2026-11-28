@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="EmployeeManager/EmployeeManager.csproj" />
+  <Project Path="EmployeeManagerApp.Tests/EmployeeManagerApp.Tests.csproj" Id="0d69fbc4-7ecd-422c-a4ec-7678f94d9c15" />
 </Solution>
